@@ -1,5 +1,5 @@
 // Define our URLs
-const BucketURL = "https://extensions-storage.socalifornian.live/beautiful-lyrics" // This is replaced by the build-script
+const BucketURL = "https://github.com/gaviinn/beautiful-lyrics-times-new-roman.git" // This is replaced by the build-script
 const LatestVersionURL = "https://extensions.socalifornian.live/version/beautiful-lyrics" // This is replaced by the build-script
 const ForceToVersion = undefined // This is replaced by the build-script
 
